@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 84" width="84" height="84">
+
+<defs><g id="r" fill="none" stroke="#e2b376" stroke-width=".55">
+<path d="M0-17C7-11 7-5 0 0c-7-5-7-11 0-17ZM17 0C11 7 5 7 0 0c5-7 11-7 17 0ZM0 17C-7 11-7 5 0 0c7 5 7 11 0 17ZM-17 0C-11-7-5-7 0 0c-5 7-11 7-17 0Z"/>
+<path d="M-11-11C-4-12-1-7 0 0c-7-1-12-4-11-11ZM11-11C12-4 7-1 0 0c1-7 4-12 11-11ZM11 11C4 12 1 7 0 0c7 1 12 4 11 11ZM-11 11C-12 4-7 1 0 0c-1 7-4 12-11 11Z"/>
+<circle r="2"/>
+</g></defs>
+<g opacity=".32">
+<path d="M0 42 42 0l42 42-42 42Z M13 42l29-29 29 29-29 29Z" fill="none" stroke="#e2b376" stroke-width=".45"/>
+<use href="#r" x="42" y="42"/><use href="#r"/><use href="#r" x="84"/><use href="#r" y="84"/><use href="#r" x="84" y="84"/>
+<path d="M21 21l3 3-3 3-3-3Zm42 0 3 3-3 3-3-3ZM21 60l3 3-3 3-3-3Zm42 0 3 3-3 3-3-3Z" fill="#e2b376"/>
+</g>
+</svg>
