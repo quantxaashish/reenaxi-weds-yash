@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reenaxi and Yash//Royal Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:reenaxi-yash-haldi-2026
+DTSTAMP:20261108T070300Z
+DTSTART:20261203T053000Z
+SUMMARY:Reenaxi and Yash · Haldi
+LOCATION:17 E Samudayak Bhawan\, Chopasni Housing Board\, Jodhpur
+END:VEVENT
+BEGIN:VEVENT
+UID:reenaxi-yash-sangeet-2026
+DTSTAMP:20261108T070300Z
+DTSTART:20261204T133000Z
+SUMMARY:Reenaxi and Yash · Sangeet
+LOCATION:17 E Samudayak Bhawan\, Chopasni Housing Board\, Jodhpur
+END:VEVENT
+BEGIN:VEVENT
+UID:reenaxi-yash-wedding-2026
+DTSTAMP:20261108T070300Z
+DTSTART:20261205T123000Z
+SUMMARY:Reenaxi and Yash · Wedding
+LOCATION:17 E Samudayak Bhawan\, Chopasni Housing Board\, Jodhpur
+END:VEVENT
+END:VCALENDAR
